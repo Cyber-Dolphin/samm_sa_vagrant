@@ -26,6 +26,8 @@ Vagrant 2.2.18
 
 Virtua Box 6.0.24
 
+No DHCP "VirtualBox Host-Only Ethernet Adapter" 
+
 How use:
 
  - git clone https://github.com/Cyber-Dolphin/samm_sa_vagrant.git
