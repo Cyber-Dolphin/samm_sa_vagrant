@@ -26,7 +26,9 @@ Vagrant 2.2.18
 
 Virtua Box 6.0.24
 
-No DHCP "VirtualBox Host-Only Ethernet Adapter" 
+No DHCP "VirtualBox Host-Only Ethernet Adapter", ip: 192.168.56.1/24, example:
+
+![image](https://user-images.githubusercontent.com/16451776/133385223-80450892-f2be-46ce-8791-284be704ac89.png)
 
 How use:
 
